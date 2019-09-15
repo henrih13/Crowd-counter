@@ -1,6 +1,6 @@
 # Crowd-counter
 This is a segmentation mask based AI (Mask R-CNN) for counting a crowd and silhouettes around the predictions
-![Demo](https://github.com/henrih13/Crowd-counter/blob/master/60confp2.PNG)
+![Demo](https://github.com/henrih13/Crowd-counter/blob/master/60confp.PNG)
 
 
 -----------------TRAINING-----------------
@@ -23,6 +23,7 @@ python human.py splash --imagedir <imagedir_location>
 Prediction (Custom weights)
 python human.py splash --weights <path_to_the_weights.h5>
 
+![Demo2](https://github.com/henrih13/Crowd-counter/blob/master/60confp2.PNG)
 
 -----------------ERRORS---------------------
 
