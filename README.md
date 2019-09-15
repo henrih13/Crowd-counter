@@ -1,4 +1,5 @@
 # Crowd-counter
+This is a segmentation mask based AI (Mask R-CNN) for counting a crowd and silhouettes around the predictions
 
 -----------------TRAINING-----------------
 
