@@ -1,6 +1,6 @@
 # Crowd-counter
 This is a segmentation mask based AI (Mask R-CNN) for counting a crowd and silhouettes around the predictions
-![Demo](https://github.com/henrih13/Crowd-counter/blob/master/60confp.PNG)
+![Demo](https://github.com/henrih13/Crowd-counter/blob/master/60conf.PNG)
 
 
 -----------------TRAINING-----------------
